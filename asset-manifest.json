@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Smoothies-React-Supabase-/static/css/main.84969fc0.css",
+    "main.js": "/Smoothies-React-Supabase-/static/js/main.30a5ecec.js",
+    "index.html": "/Smoothies-React-Supabase-/index.html",
+    "main.84969fc0.css.map": "/Smoothies-React-Supabase-/static/css/main.84969fc0.css.map",
+    "main.30a5ecec.js.map": "/Smoothies-React-Supabase-/static/js/main.30a5ecec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84969fc0.css",
+    "static/js/main.30a5ecec.js"
+  ]
+}
